@@ -270,8 +270,8 @@ img {
     text-align: center;
 }
 .home__img {
-    width: 200px;
-    height: 210px;
+    width: 210px;
+    height: 230px;
     border-radius: 50%;
     justify-self: center;
     margin-bottom: var(--mb-1);
